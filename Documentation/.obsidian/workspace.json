@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "bcfa66b19d52d0c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd37e9fa63c3a541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea70878c915fb6d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monorepo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a07651f7a7a9f62c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9910922bb5b7848d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8faf6f4fa6bf95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fd53a4dfc42f1b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3f9fb37b6f1c1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcf92240de210481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f097b2dc950c034c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7b8faf6f4fa6bf95",
+  "lastOpenFiles": [
+    "Monorepo.md"
+  ]
+}
